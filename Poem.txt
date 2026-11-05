@@ -6,6 +6,7 @@ Orange
 Blue
 Red
 Green
+Yellow
 These are the colors of the rainbow.
 
 With rue my heart is laden
