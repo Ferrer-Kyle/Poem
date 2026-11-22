@@ -7,6 +7,7 @@ Blue
 Red
 Green
 Indigo
+Recycle!
 Unicorn
 Yellow
 These are the colors of the rainbow.
@@ -20,5 +21,5 @@ And many a lightfoot lad.
 By brooks too broad for leaping
 The lightfoot boys are laid;
 The rose-lipt girls are sleeping
-In fields where rose fade.
+In fields where roses fade.
 - With Rue My Heart is Laden, A. E. Housman
